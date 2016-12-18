@@ -1,0 +1,47 @@
+{
+	"waittitle": {
+		"message": "Procesando..."
+	},
+	"wait": {
+		"message": "Por favor espere..."
+	},
+	"titledialog": {
+		"message": "Escriba un texto"
+	},
+	"replace": {
+		"message": "Reemplazar por qlink"
+	},
+	"new": {
+		"message": "Nuevo qlink"
+	},
+	"textql": {
+		"message": "Escriba el mensaje aquí"
+	},
+	"gentoken": {
+		"message": "generando clave..."
+	},
+	"errcon": {
+		"message": "Error de conexión..."
+	},
+	"genencrypt": {
+		"message": "encriptando en su dispositivo..."
+	},
+	"genqlink": {
+		"message": "generando qlink..."
+	},
+	"error": {
+		"message": "Error. Por favor verifique su conexión..."
+	},
+	"qdescription" : {
+		"message": "Inserte un nuevo qlink en su email o seleccione un texto de su mensaje y reemplaze este por un qlink."
+	},
+	"qhelp" : {
+		"message": "Cómo usar esta extensión"
+	},
+	"helptitle" : {
+		"message": "Ayuda"
+	},
+	"qhelpdescription" : {
+		"message": "<strong>Cómo usar esta extensión:</strong><br/><br/>La extensión de Chrome Qlink.it permite convertir el texto seleccionado en un qlink con contenido cifrado, y también incrustar un nuevo qlink dentro del cuerpo de su correo electrónico.<br/><br/>Utilice el menú contextual con el botón derecho del ratón o los atajos 'Ctrl + Shift + z' para insertar un nuevo qlink y 'Ctrl + Shift + x' para reemplazar el texto seleccionado de su mensaje de correo electrónico.<br/><br/><strong>Composición segura:</strong><br/><br/>Qlink.it cifra las porciones de mensajes de correo electrónico que usted necesite. Esto sucede todo en su máquina.<br/>Para evitar que mientras compone el correo, el texto no cifrado llegue a los servidores de Google, hemos desarrollado una herramienta para evitar que el contenido del correo electrónico que usted está escribiendo sea salvado por Gmail en la carpeta 'Borradores'. <br/>Para activar esta función en su nuevo correo electrónico, active el botón con el candado antes de hacer clic en el botón 'REDACTAR'."
+	}	
+}

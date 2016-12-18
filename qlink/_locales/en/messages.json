@@ -1,0 +1,47 @@
+{
+	"waittitle": {
+		"message": "Processing..."
+	},
+	"wait": {
+		"message": "Please wait..."
+	},
+	"titledialog": {
+		"message": "Write a text"
+	},
+	"replace": {
+		"message": "Replace by qlink"
+	},
+	"new": {
+		"message": "New qlink"
+	},
+	"textql": {
+		"message": "Write the message here"
+	},
+	"gentoken": {
+		"message": "generating key..."
+	},
+	"errcon": {
+		"message": "Connection error..."
+	},
+	"genencrypt": {
+		"message": "encrypting in your device..."
+	},
+	"genqlink": {
+		"message": "generating qlink..."
+	},
+	"error": {
+		"message": "Error. Please check your connection ..."
+	},
+	"qdescription" : {
+		"message": "Insert a new qlinked message in your email or select a text of your message and covert it in a qlinked message."
+	},
+	"qhelp" : {
+		"message": "How use this extension."
+	},
+	"helptitle" : {
+		"message": "Help"
+	},
+	"qhelpdescription" : {
+		"message": "<strong>Using this extension:</strong><br/><br/>Qlink.it Chrome extension allows you to convert the selected text into a qlink with encrypted content, and embed a new qlink within the body of your email.<br/><br/>Use the context menu with the right mouse button or shortcuts 'Ctrl + Shift + z' to insert a new qlink and 'Ctrl + Shift + x' to replace the selected text from your email.<br/><br/><strong>Safe Composition:</strong><br/><br/>Qlink.it encrypt the portions of emails that you need. This happens all on your machine.<br/>To avoid that while composing the mail, the ciphertext does not reach Google servers, we have developed a tool to prevent the contents of the email you're writing is saved by Gmail in the 'Drafts' folder.<br/>To enable this feature in your new email, select the button with the padlock before clicking on the 'COMPOSE' button."
+	}
+}
